@@ -14,7 +14,10 @@ html, body{
 main{
     height: 200vh;
     position: relative;
-    background-color: green;
+    
+}
+body{
+    background: url('../imagens/fundo-madeira.jpg') no-repeat;
 }
 section#telefone{
     height: 627px;
